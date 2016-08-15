@@ -109,7 +109,7 @@
         annotationView.image = [UIImage imageNamed:@"map 2"];
         
         //添加左视图
-        UIImageView *imageView = [[UIImageView alloc] initWithImage:[UIImage imageNamed:@"AppIcon57x57"]];
+        UIImageView *imageView = [[UIImageView alloc] initWithImage:[UIImage imageNamed:@"01d19f55a2fa5532f8758bedacd89b"]];
         imageView.frame = CGRectMake(0, 0, 40, 40);
         
         //设置标注的左视图
